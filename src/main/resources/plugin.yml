@@ -1,0 +1,4 @@
+name: DisableOP
+version: '${project.version}'
+main: me.theadminhammer.disableop.DisableOP
+api-version: '1.16'

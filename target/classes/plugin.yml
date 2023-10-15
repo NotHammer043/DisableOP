@@ -1,0 +1,4 @@
+name: DisableOP
+version: '1.0-SNAPSHOT'
+main: me.theadminhammer.disableop.DisableOP
+api-version: '1.16'
